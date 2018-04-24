@@ -1,2 +1,2 @@
-# caffe-ssd-project
-This is an example of using caffe in a new project. Only need to modify a few paths, the program will be able to run.
+# text detection
+this is the first repo for our team: 13 football team .
